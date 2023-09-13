@@ -1,5 +1,5 @@
 ### Olá meu nome é Kalleby 😁
-Programador iniciante em java
+Programador em java e Python
 
 - 🔧*Estudando engenharia de Controle e automação*
 - 🤖*Conhecimentos em logica de programação*
